@@ -10,10 +10,10 @@
 1. 本ツール(SendPassword.exe) を実行後、3 秒後に、INFINITAS Launcher のパスワードに password.txt の内容が入力されます
 
 ```
-    @echo off
+@echo off
 
-    start bm2dx_launcher.exe
-    SendPassword.exe
+start bm2dx_launcher.exe
+SendPassword.exe
 ```
 
 こんな bat ファイルを作っておくと更に便利だと思います。
